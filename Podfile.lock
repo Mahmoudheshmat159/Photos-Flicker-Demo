@@ -1,0 +1,50 @@
+PODS:
+  - Agrume (5.8.6):
+    - SwiftyGif
+  - Alamofire (5.3.0)
+  - IQKeyboardManagerSwift (6.5.10)
+  - Kingfisher (7.3.0)
+  - lottie-ios (3.4.1)
+  - R.swift (6.1.0):
+    - R.swift.Library (~> 5.3.0)
+  - R.swift.Library (5.3.0)
+  - SwiftMessages (9.0.6):
+    - SwiftMessages/App (= 9.0.6)
+  - SwiftMessages/App (9.0.6)
+  - SwiftyGif (5.4.3)
+
+DEPENDENCIES:
+  - Agrume
+  - Alamofire (= 5.3)
+  - IQKeyboardManagerSwift
+  - Kingfisher
+  - lottie-ios
+  - R.swift
+  - SwiftMessages
+
+SPEC REPOS:
+  trunk:
+    - Agrume
+    - Alamofire
+    - IQKeyboardManagerSwift
+    - Kingfisher
+    - lottie-ios
+    - R.swift
+    - R.swift.Library
+    - SwiftMessages
+    - SwiftyGif
+
+SPEC CHECKSUMS:
+  Agrume: 0fc0056444b81009b74fbe7bce71ce1f7561f50b
+  Alamofire: 2c792affbdc2f18016e08fdbcacd60aebe1ba593
+  IQKeyboardManagerSwift: 52962c76ab33532f15ad9f3ff4e5715eda5335bb
+  Kingfisher: cdb1189a9223b1bc028816bd47c8b8101a58831c
+  lottie-ios: 016449b5d8be0c3dcbcfa0a9988469999cd04c5d
+  R.swift: ec98ff71c4ab2f6fd01dd077e5afd15e63a4834c
+  R.swift.Library: 0fc583cb55a99e28901299cc451614cad1161962
+  SwiftMessages: f0c7ef4705a570ad6c5e208b611f4333e660ed92
+  SwiftyGif: 6c3eafd0ce693cad58bb63d2b2fb9bacb8552780
+
+PODFILE CHECKSUM: 371bc5521b33ba6ce7856d7006d442b4d6663e63
+
+COCOAPODS: 1.11.2

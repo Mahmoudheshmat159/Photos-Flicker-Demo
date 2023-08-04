@@ -1,0 +1,250 @@
+/* 
+  Localizable.strings
+
+  Created by on 11/21.
+  Copyright © 2018 ocs. All rights reserved.
+*/
+
+"Hello" = "اهلا";
+"camera.lan" = "الكاميرا";
+"photo.library.lan" = "معرض الصور";
+"cancel.lan" = "الغاء";
+"ERROR" = "حدث خطأ";
+"AGREE" = "موافق";
+"try again" = "إعادة المحاولة";
+"You have a problem connecting to the Internet try Call again and try again" = "لديك مشكلة في الاتصال بالانترنت حاول الاتصال مره اخري و اعادة المحاولة";
+"You have a connection problem" = "لديك مشكلة في الاتصال";
+"is incorrect email" = "هو بريد إلكتروني غير صحيح";
+"is required" = "مطلوب";
+"the length has error" = "يجب ان تدخل ";
+"the length must be at minimum" = "يجب أن يكون الطول كحد أدنى";
+"the length must be at maximum" = "يجب أن يكون الطول كحد أقصى";
+"doesn't match" = "لا يتطابق";
+"is incorrect numeric" = "هذا رقم غير صحيح";
+
+"action allow" = "يكمل";
+
+"action allowed" = "مسموح";
+
+"titles header" = "تحتاج إذن";
+
+"titles sub header" = "طلب أذونات";
+
+"titles description" = "هذه هي الأذونات التي يتطلبها التطبيق للعمل بشكل صحيح. يرجى الاطلاع على وصف لكل إذن.";
+
+"titles comment" = "الأذونات ضرورية للتطبيق لكي يعمل ويعمل بشكل صحيح. الدفع ليست أذونات مطلوبة";
+
+"permission camera name" = "آلة تصوير";
+
+"permission camera description" = "السماح للتطبيق باستخدام الكاميرا";
+
+"permission photoLibrary name" = "مكتبة الصور";
+
+"permission photoLibrary description" = "الوصول لحفظ الصور في معرض الصور الخاص بك";
+
+"permission microphone name" = "ميكروفون";
+
+"permission microphone description" = "السماح بتسجيل الصوت من التطبيق";
+
+"permission calendar name" = "تقويم";
+
+"permission calendar description" = "يمكن للتطبيق إضافة الأحداث إلى التقويم";
+
+"permission contacts name" = "جهات الاتصال";
+
+"permission contacts description" = "الوصول إلى جهات الاتصال والهواتف الخاصة بك";
+
+"permission reminders name" = "تذكير";
+
+"permission reminders description" = "يمكن للتطبيق إنشاء مهمة جديدة";
+
+"permission speech name" = "خطاب";
+
+"permission speech description" = "اسمح للتحقق من صوتك";
+
+"permission motion name" = "اقتراح";
+
+"permission motion description" = "السماح بتسجيل البيانات المتعلقة بالحركة والبيئة";
+
+"permission media library name" = "مكتبة الوسائط";
+
+"permission media library description" = "السماح للتحقق من وسائل الإعلام الخاصة بك";
+
+"permission bluetooth name" = "بلوتوث";
+
+"permission bluetooth description" = "اسمح بالوصول إلى البلوتوث";
+
+"permission notification name" = "تنبيه";
+
+"permission notification description" = "احصل على معلومات مهمة دون فتح التطبيق.";
+
+"permission location when in use name" = "الموقع عند الاستخدام";
+
+"permission location when in use description" = "السماح للوصول إلى موقعك";
+
+"permission location always name" = "الموقع دائما";
+
+"permission location always description" = "السماح للوصول إلى موقعك";
+
+"permission tracking name" = "تتبع";
+
+"permission tracking description" = "السماح بالوصول إلى البيانات المتعلقة بالتطبيق";
+
+"permission faceid name" = "FaceID";
+
+"permission faceid description" = "السماح باستخدام هوية Face ID";
+
+"permission siri name" = "Siri";
+
+"permission siri description" = "ستتمكن من استخدام Siri";
+
+"permission health name" = "صحة";
+
+"permission health description" = "السماح بالوصول إلى البيانات الصحية";
+
+"denied alert title" = "طلب الاذن مرفوض";
+
+"denied alert description" = "من فضلك ، انتقل إلى الإعدادات واسمح بالإذن.";
+
+"denied alert action" = "إعدادات";
+
+"denied alert cancel" = "يلغي";
+
+"action denied" = "رفض";
+
+"Rowaad Product" = "برودكت رواد";
+"Success" = "نجاح";
+"Warning" = "تحذير";
+"Information" = "معلومات";
+"RAS" = "ريال";
+"Password must be identical" = "يجب تطابق كلمة المرور";
+"Please agree Terms and Conditions" = "من فضلك وافق علي سياسية الخصوصية وشروط الاستخدام";
+"Code resend successfully" = "تم اعادة ارسال الكود بنجاح";
+"Password change successfully" = "تم تغيير كلمة المرور بنجاح";
+"Profile update successfully" = "تم تحديث الحساب بنجاح";
+"Thanks for contact us" = "شكرا لتواصلك معنا";
+"Please choose gender type" = "من فضلك اختر النوع";
+"Whatsapp is not installed on this device. Please install Whatsapp and try again." = "التطبيق غير متوفر علي الجهاز من فضلك قم بتنزليه واعادة المحاولة";
+"Error" = "حدث خطأ";
+"Should at least" = "يجب أن لا يقل عن";
+"Letter" = "حرف";
+"At most" = "وعلي الاكثر";
+"Field" = "الحقل";
+"is incorrect" = "غير صحيح";
+"Cancel" = "الغاء";
+"Done" = "تم";
+"App version" = "رقم الاصدار";
+"We have sent the verification code to your email Entry" = "ارسلنا كود التحقق الي بريدك الالكتروني المدخل";
+"Write here" = "اكتب هنا";
+"Please answer all the questions" = "من فضلك اجب علي جميع الاسئلة";
+"Home" = "الرئيسيـة";
+"Calender" = "التقويم";
+"Activites" = "الانـشطة";
+"Courses" = "البرامج";
+"characters out of 120" = "حـرف مـن 120 حـرف";
+"Please set activity" = "من فضلك قيم النشاط";
+"Thank you, the answers have been added successfully" = "شكرا لك ، لقد تم اضافة الاجوبة بنجاح";
+"Profile update successfully" = "تم تحديث الحساب بنجاح";
+"Subject" = "الموضوع";
+"Adress" = "العنوان";
+"PhoneNumber" = "رقم الهاتف";
+"MobileNumber" = "رقم الجوال";
+"Email" = "البريد الالكتروني";
+"ErrorMessageBodyContactUs" = "يجب الا يقل الموضوع عن حرف واحد ولا يزيد عن ٢٥٠ حرف";
+"ContactUsMessageSent" = "شكرا لك سيتم الرد على رسالتك في أقرب وقت ممكن";
+"ContactInformation" = "معلومات التواصل";
+"YourCommentHere" = "اترك تعليقك ان اردت";
+"QuestionnaireSent" = "شكرا للاجابة عن الاستبيان";
+"SkipQuestionnaire" = "يمكنك الاجابة في أي وقت عن هذا الاستبيان";
+"RequiredQuestionnaireQuestions" = "يجب الاجابة علي الاسئلة المطلوبة (*) او يمكنك تخطي الاستبيان واجبته في وقت لاحق";
+"OneMonth" = "شهر";
+"HalfYear" = "٦ شهور";
+"Year" = "سنة";
+"NowEasliy" = "الآن بسهولة";
+"subscribeEffah" = "اشترك في عفة";
+"chooseSubscribtionDuration" = "اختر مدة الاشتراك";
+"KSACurrency" = "ر.س";
+"Saving" = "ستوفر";
+"StartSubscribtionDate" = "تاريخ الاشتراك";
+"EndSubscribtionDate" = "تاريخ الانتهاء";
+"SubcribtionType" = "نوع الاشتراك";
+"SubcribtionCost" = "تكلفة الاشتراك";
+"SubscribtionDetails" = "تفاصيل الاشتراك";
+"LookAt" = "اطلع علي";
+"ReSubscribe" = "جدد الاشتراك";
+"SubscribeNow" = "اشترك الآن";
+"ExpireSubscribtion" = "( منتهي )";
+"Paid Program" = "برنامج مدفوع";
+"Free Program" = "برنامج مجاني";
+"Minute" = "دقيقة";
+"ByVISA" = "بواسطة بطاقة الائتمان";
+"ByMADA" = "بواسطة مدي";
+"ByMASTER" = "بواسطة ماستر كارد";
+"ByAPPLE" = "بواسطة آبل باي";
+"PayNow" = "ادفع الآن";
+"payBy" = "بواسطة";
+"RequiredChoosePackage" = "يجب ان تختار الباقة المناسبة اولا";
+"RequiredChoosePaymentMethod" = "يجب ان تختار طريقة الدفع لاتمام العملية";
+"Payment successfully" = "تم الاشتراك بنجاح";
+"Payment failed" = "فشلت عملية الدفع";
+"OptionsPayment" = "خيارات الدفع";
+"This name will appear instead of your real name" = "ھذا الاسم سوف یظھر بدلاً من اسمك الحقیقي";
+"Username" = "اسم المستخدم";
+"You can see content now" = "يمكنك مشاهدة محتويات الدورة الان";
+"Joined Successfully" = "تم انضمامك بنجاح إلي";
+"Join the program" = "من فضلك انضم للدورة اولا";
+"See previous video first" = "يتطلب النظام الانتهاء من مشاهدة المحاور حسب الترتيب الخاص بها";
+"aboutusPage" = "من نحن";
+"No content avalible" = "لا يوجد محتوي الان";
+"Failed play video" = "فشلت عملت تشغيل المحتوي. حاول مرة أخري";
+"More exercises" = "تـماريـن اخـري";
+"Added date" = "وقت الاضافة";
+"Updated date" = "وقت التحديث";
+"Morning" = "فترة صباحية";
+"Evening" = "فترة مسائية";
+"Cannot edit trainging" = "لا يمكن تعديل التمرين";
+"Daily activities" = "الانـشـطة اليـومـية";
+"Record and values" = "سـجـل وقـيم";
+"Daily activities" = "الأنـشطـة اليـومـيـة";
+
+
+"termsPage" = "الشروط والاحكام";
+"articleSubjectValidate" = "عنوان المقال يجب الايقل عن ٣ حروف ولا يزيد عن ٢٤ حرف";
+"articleBodyValidate" = "المقال يجب الايقل عن ١٢٠ حرف ولايزيد عن ٢٥٠ حرف";
+"sendingArticle" = "شكرا على المقال،سيتم المراجعة والنشر بعد موافقة الإدارة";
+"sendingReport" = "شكرا على الإبلاغ هذا المحتوى";
+"urgentHelpTitle" = "مساعدة عاجلة";
+"urgentHelpSubTitle" = "في حالة الموافقة علي طلب المساعدة نصلك بصديق التعافي لحل مشكلتك بشكل مباشر";
+"ThereProblemTitle" = "توجد مشكلة";
+"ThereProblemSubTitle" = "ترسل مشكلتك ويقوم صديق التعافي بالرد عليك من خلال رسائلك الشخصية";
+"continue" = "استكمال";
+"ask" = "طلب";
+"help" = "مساعدة";
+"AskHelpType" = "اختر نوع المساعدة";
+"urgent" = "عاجلة";
+"founded" = "توجد";
+"problem" = "مشكلة";
+"SendBtnProblem" = "ارسال المشكلة";
+"SendBtnUrgent" = "ارسال المساعدة";
+"SubjectPlaceHolderUrgent" = "عنوان المساعدة";
+"SubjectPlaceHolderProblem" = "عنوان المشكلة";
+"BodyPlaceHolderUrgent" = "نص المساعدة";
+"BodyPlaceHolderProblem" = "نص المشكلة";
+"TypeMessage" = "اكتب رسالتك";
+"MessagesHead" = "الرسائل";
+"showMessagesHead" = "اعرض رسائلك";
+"requierdFillField" = "يجب ملأ الحقول اولا";
+"MessageSentSuccefully" = "تم إرسال الرسالة بنجاح";
+"NoComment" = "لا يوجد تعليقات";
+"reportMessage" = "شكرا على الإبلاغ هذا المحتوى";
+"requierdFillReport" = "يجب ملأ سبب الابلاغ اولا";
+"save&send" = "حفظ وارسال";
+"skip" = "تخطي";
+"AnswerQuestionnaire" = "اجب علي استبيان";
+"Programs" = "البرامج";
+"joinedToIt" = "المنضم لها";
+"UserNotifications" = "اشعاراتك";
+"NewMessages" = "رسائل جديدة";
+"NoMessages" = "لا يوجد رسائل جديدة";
+"requestHelp" = "طلب مساعدة";
+"NoFriendMessages" = "لايوجد رسائل مع صديقك";

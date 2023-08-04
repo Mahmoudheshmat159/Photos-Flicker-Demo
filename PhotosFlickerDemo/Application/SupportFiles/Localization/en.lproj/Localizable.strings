@@ -1,0 +1,207 @@
+/* 
+  Localizable.strings
+  Created by on 11/521.
+  Copyright © 2018 ocs. All rights reserved.
+*/
+
+
+"Hello" = "Hello";
+"camera.lan" = "Camera";
+"photo.library.lan" = "Photo library";
+"cancel.lan" = "Cancel";
+"ERROR" = "ERROR";
+"AGREE" = "AGREE";
+"try again" = "Try again";
+"You have a problem connecting to the Internet try Call again and try again" = "You have a problem connecting to the Internet try Call again and try again";
+"You have a connection problem" = "You have a connection problem";
+
+"action allow" = "Continue";
+
+"action allowed" = "Allowed";
+
+"titles header" = "Need Permission";
+
+"titles sub header" = "Permissions request";
+
+"titles description" = "These are the permissions the app requires to work properly. Please see description for each permission.";
+
+"titles comment" = "Permissions are necessary for the application to work and perform correctly. Push are not required permissions";
+
+"permission camera name" = "Camera";
+
+"permission camera description" = "Allow app for use camera";
+
+"permission photoLibrary name" = "Photo Library";
+
+"permission photoLibrary description" = "Access for save photos in your gallery";
+
+"permission microphone name" = "Microphone";
+
+"permission microphone description" = "Allow record voice from app";
+
+"permission calendar name" = "Calendar";
+
+"permission calendar description" = "Application can add events to calendar";
+
+"permission contacts name" = "Contacts";
+
+"permission contacts description" = "Access for your contacts and phones";
+
+"permission reminders name" = "Reminders";
+
+"permission reminders description" = "Application can create new task";
+
+"permission speech name" = "Speech";
+
+"permission speech description" = "Allow to check your voice";
+
+"permission motion name" = "Motion";
+
+"permission motion description" = "Allow to record motion and environment-related data";
+
+"permission media library name" = "Media Library";
+
+"permission media library description" = "Allow to check your media";
+
+"permission bluetooth name" = "Bluetooth";
+
+"permission bluetooth description" = "Allow access to bluetooth";
+
+"permission notification name" = "Notification";
+
+"permission notification description" = "Get important information without opening app.";
+
+"permission location when in use name" = "Location When Use";
+
+"permission location when in use description" = "Allow to access your location";
+
+"permission location always name" = "Location Always";
+
+"permission location always description" = "Allow to access your location";
+
+"permission tracking name" = "Tracking";
+
+"permission tracking description" = "Allow to access app-related data";
+
+"permission faceid name" = "FaceID";
+
+"permission faceid description" = "Allow using Face ID identity";
+
+"permission siri name" = "Siri";
+
+"permission siri description" = "You will be able to use Siri";
+
+"permission health name" = "Health";
+
+"permission health description" = "Allow to access health data";
+
+"denied alert title" = "Permission denied";
+
+"denied alert description" = "Please, go to Settings and allow permission.";
+
+"denied alert action" = "Settings";
+
+"denied alert cancel" = "Cancel";
+
+"action denied" = "Denied";
+
+"Subject" = "Message";
+"Adress" = "Adress";
+"PhoneNumber" = "Phone Number";
+"MobileNumber" = "Mobile Number";
+"Email" = "Email";
+"ErrorMessageBodyContactUs" = "message must be less than 250 character and greater than 1 character";
+"ContactUsMessageSent" = "Thank you,Your message will be answered as soon as possible.";
+"ContactInformation" = "Contact Information";
+"YourCommentHere" = "Type your comment here if you want";
+"QuestionnaireSent" = "Thanks for answer the questionnaire";
+"SkipQuestionnaire" = "You can answer qusetionnaire later";
+"RequiredQuestionnaireQuestions" = "you must answer the required questions (*) or you can skip the quuestionnaire and answer it later";
+"OneMonth" = "Month";
+"HalfYear" = "6 Monthes";
+"Year" = "Year";
+"NowEasliy" = "Now Easily";
+"subscribeEffah" = "Subscribe in Effah";
+"chooseSubscribtionDuration" = "Choose subscribtion duration";
+"KSACurrency" = "SAR";
+"StartSubscribtionDate" = "Subscribtion Date";
+"EndSubscribtionDate" = "End Date";
+"SubcribtionType" = "Subcribtion Type";
+"SubcribtionCost" = "Subcribtion Cost";
+"SubscribtionDetails" = "Subscribtion Details";
+"LookAt" = "Look at";
+"ReSubscribe" = "Re-subscribe";
+"SubscribeNow" = "Subscribe Now";
+"ExpireSubscribtion" = "( Expired )";
+"ByVISA" = "By VISA";
+"ByMADA" = "By MADA";
+"ByMASTER" = "By MASTER Card";
+"ByAPPLE" = "By APPLE Pay";
+"PayNow" = "PayNow";
+"payBy" = "By";
+"RequiredChoosePackage" = "You must choose your package at first";
+"RequiredChoosePaymentMethod" = "You must choose payment method to complete";
+"Payment successfully" = "Payment Succesfully";
+"Payment failed" = "Payment Failed";
+"OptionsPayment" = "Payment Methods";
+
+
+"termsPage" = "Terms and Conditions";
+"articleSubjectValidate" = "Subject must be at least 3 and Maximum 24.";
+"articleBodyValidate" = "Article must be at least 120 and Maximum 250.";
+"sendingArticle" = "Thanks for the article, it will review and publish as soon as possible";
+"sendingReport" = "Thanks for reprot the content";
+"urgentHelpTitle" = "Urgent Help";
+"urgentHelpSubTitle" = "In case that the request for assistance is approved, we will contact you with a trainee to solve your problem directly ";
+"ThereProblemTitle" = "There is a problem";
+"ThereProblemSubTitle" = "You send your problem and the trainee responds to you from
+through your personal messages";
+"continue" = "Continue";
+"ask" = "Ask";
+"help" = "Help";
+"AskHelpType" = "Ask type of help";
+"urgent" = "Urgent";
+"founded" = "There's";
+"problem" = "Problem";
+"SendBtnProblem" = "Send Problem";
+"SendBtnUrgent" = "Send Help";
+"SubjectPlaceHolderUrgent" = "Subject Help";
+"SubjectPlaceHolderProblem" = "Subject Problem";
+"BodyPlaceHolderUrgent" = "Type Help";
+"BodyPlaceHolderProblem" = "Type Problem";
+"TypeMessage" = "Type your message";
+"TypeMessage" = "Type your message";
+"MessagesHead" = "Messages";
+"showMessagesHead" = "Show yor messages";
+"requierdFillField" = "you must fill field first";
+"MessageSentSuccefully" = "Message sent successfully.";
+"NoComment" = "No Comment";
+"reportMessage" = "Thanks for reporting this content";
+"requierdFillReport" = "you must fill report reason first";
+"save&send" = "Save & Send";
+"skip" = "Skip";
+"AnswerQuestionnaire" = "Answer Questionnaire";
+"Programs" = "Programs";
+"joinedToIt" = "Joined";
+"UserNotifications" = "Notifications";
+"NewMessages" = "New Messages";
+"NoMessages" = "there's no new messages";
+"requestHelp" = "Request Help";
+"NoFriendMessages" = "there's no new messages with your friend";
+
+"ShowPage" = "Show";
+"FourmPage" = "Forum";
+"Add" = "Add";
+"NewArticle" = "New Article";
+"WriteArticle" = "Type the article";
+"SubjcetArticle" = "Article Subject";
+"AddArticle" = "Add Article";
+"Report" = "Report";
+"ArticleComments" = "Article Comments";
+"AddComment" = "Add New Comment";
+"reportHeadContainer" = "Report Content";
+"typrReportReason" = "Type Report Reason";
+"cancelBtn" = "Cancel";
+"sendBtn" = "Send";
+"commentValidate" = "Comment must be at least 3 and Maximum 240.";
+"sendingComment" = "comment sent succesfully it will review and publish as soon as possible";
