@@ -30,7 +30,7 @@ class MoviesInteractor: MoviesInteractorProtocol {
         parameters["api_key"] = APIParamConstantHelper.shared.api_key
         
         NetworkManager.instance.paramaters = parameters
-        NetworkManager.instance.request(.rest, type: .get, MoviesModel.self) { [weak self] response in
+        NetworkManager.instance.request(.rest, type: .get, MoviesModel.self) { response in
            
             switch response {
             case .success(let model):
