@@ -1,15 +1,9 @@
-///**
-
-/**
-
-PhotosFlickerDemoTests
-
-Created by: apple on 8/5/23
-
-Copyright (c) 2023 Rowaad
-
-
-**/
+//
+//  FlickerDemo
+//
+//  Created by apple on 8/4/23.
+//  Copyright © 2023 Mahmoud.Heshmat. All rights reserved.
+//
 
 
 import XCTest
